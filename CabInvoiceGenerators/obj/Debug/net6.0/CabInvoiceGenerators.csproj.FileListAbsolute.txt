@@ -1,0 +1,5 @@
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.csproj.AssemblyReference.cache
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.AssemblyInfoInputs.cache
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.AssemblyInfo.cs
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.csproj.CoreCompileInputs.cache
