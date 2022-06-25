@@ -3,3 +3,13 @@ C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInv
 C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.AssemblyInfoInputs.cache
 C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.AssemblyInfo.cs
 C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.csproj.CoreCompileInputs.cache
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\bin\Debug\net6.0\CabInvoiceGenerators.exe
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\bin\Debug\net6.0\CabInvoiceGenerators.deps.json
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\bin\Debug\net6.0\CabInvoiceGenerators.runtimeconfig.json
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\bin\Debug\net6.0\CabInvoiceGenerators.dll
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\bin\Debug\net6.0\CabInvoiceGenerators.pdb
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.dll
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\refint\CabInvoiceGenerators.dll
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.pdb
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\CabInvoiceGenerators.genruntimeconfig.cache
+C:\Users\ravir\Assignment\BridgeLab\CabInvoiceGenerators\obj\Debug\net6.0\ref\CabInvoiceGenerators.dll
